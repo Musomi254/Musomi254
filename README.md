@@ -1,4 +1,4 @@
-[[ds.jpg]]
+![Data Science Cover Image](https://github.com/3799e92e-996a-40c4-ba83-8a979365aa12)
 
 # Hi, I'm Emmanuel Musomi
 
